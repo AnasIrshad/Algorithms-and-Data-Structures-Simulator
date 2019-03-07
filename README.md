@@ -1,5 +1,7 @@
 # Algorithms-and-Data-Structures-Simulator
 
+Desktop application for visualization of sorting algorithms and data structures using the .NET framework. Includes multiple sorting algorithms, data structures like trees, Knap Sack and Chain Multiplication.
+#
 ### Sorting Algorithms
   - Quick Sort
   - Heap Sort
